@@ -1,9 +1,9 @@
 {
-    "Total Games Played": 26,
+    "Total Games Played": 27,
     "Total Computer Wins": 4,
     "Total Player Wins": 14,
-    "Total Draws": 8,
+    "Total Draws": 9,
     "Computer Winning Probability": 0.15,
-    "Player Winning Probability": 0.54,
-    "Game Drawing Probability": 0.31
+    "Player Winning Probability": 0.52,
+    "Game Drawing Probability": 0.33
 }
